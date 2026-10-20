@@ -16,7 +16,7 @@
 }
 
 .card {
-  background-color: #efeeec;
+  background-color: #e7b45c;
   border: 1px solid #e2e8f0;
   border-radius: 12px;
   padding: 18px 22px;
@@ -52,4 +52,8 @@
 .badge.tidak-aktif {
   background-color: #f1f3f5;
   color: #70757a;
+}
+
+body {
+  background-color: #f4f4f9;
 }
