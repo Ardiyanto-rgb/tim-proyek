@@ -18,3 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # Proyek Tim
 
 Aplikasi React untuk menampilkan kartu profil anggota tim.
+
+> Catatan: Proyek ini dibuat untuk memenuhi tugas kelompok.
